@@ -1,8 +1,8 @@
 <!--## Hi there 👋-->
 <h1 align="center">Hi 👋, I'm Prabhat R Mohanta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate generalist from India</h3>
 
-- 💬 Ask me about **LLM, Parallel programming**
+- 💬 Ask me about **LLM, Parallel programming, Astrophysics**
 
 - 📫 How to reach me **prabhat16ranjan16@gmail.com**
 
